@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+  },
+  "extensions": {
+    "recommendations": [
+      "swellaby.node-pack",
+    ],
+  },
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+}
