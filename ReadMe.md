@@ -1,3 +1,13 @@
+# Recommended alternative way use an SP!
+
+In 2023 new ways have been added to connect to Azure DevOps - you should check my [newer repo AzureDevOpsPatWithServicePrincipal](https://github.com/Bjego/AzureDevOpsPatWithServicePrincipal).
+
+If you still want to use the service account - here you go!
+
+
+<hr>
+
+
 # Automated Azure DevOps PAT management using a technical user - with no interaction from postman and nodejs
 ## What should be archived ?
 We are looking to use the new APIs announced [here](https://devblogs.microsoft.com/devops/personal-access-token-lifecycle-apis-now-publicly-available/) to manage PATs from technical users to e.g. rotate the PATs from our selfhosted Agents in Kubernetes, or to connect 3rd party software like SonarQube.
